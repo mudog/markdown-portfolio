@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- soccer
+  - english premier league
+  - la liga
+* IT
+* *Biology
+
+1. food
+2. travel
